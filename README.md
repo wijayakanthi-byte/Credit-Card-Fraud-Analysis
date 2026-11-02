@@ -108,7 +108,7 @@ The analysis included:
 The project includes three interactive dashboards developed using Tableau Public.
 
 **Tableau Public Dashboard:**  
-[View Interactive Dashboard](YOUR_TABLEAU_PUBLIC_LINK)
+[View Interactive Dashboard](https://public.tableau.com/app/profile/wijaya.kanthi/viz/CreditCardFraudAnalysDasboard/Dashboard2?publish=yes)
 
 ## 💡 Key Insights
 
