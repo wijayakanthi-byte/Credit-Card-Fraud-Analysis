@@ -54,7 +54,7 @@ The dataset contains credit card transaction records with transaction details, c
 - **Tableau Public** — Data visualization and dashboard development
 
 ## 🔍 Analysis Process
-
+[View SQL Queries on GitHub](https://github.com/USERNAME/credit-card-fraud-analysis/tree/main/sql)
 ### 1. Data Quality Check
 
 Performed initial data quality checks to understand the dataset.
@@ -162,7 +162,3 @@ Regularly monitor fraud rates, fraud transaction counts, and fraud losses across
 ## 👤 Author
 
 [Fira Azzah Wijayakanthi]
-
-Skills: SQL, Data Analysis, Data Visualization, Tableau Public
-
-GitHub: [Your GitHub Profile]
